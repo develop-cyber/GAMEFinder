@@ -12,7 +12,7 @@ git init
 git add .
 git commit -m "Initial GAMEFinder SwiftUI app"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git remote add origin https://github.com/develop-cyber-------------git
 git push -u origin main
 ```
 If the repository already contains work, clone it first and copy the GAMEFinder project into the clone instead of overwriting it. Commit and push from the cloned folder.
